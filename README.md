@@ -27,7 +27,7 @@ A full-stack real-time chat application built with:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/realtime-chat-app.git
+git clone https://github.com/Harini-1203/Chat-Application.git
 cd realtime-chat-app
 ```
 ### 2. Backend Setup (Server)
@@ -68,6 +68,7 @@ expo start
 
 ## Demo video
 click here to watch: https://youtu.be/hS768ibXGDI
+
 
 
 
