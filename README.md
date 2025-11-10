@@ -63,8 +63,12 @@ expo start
 ## Sample users
 | Name  | Email               | Password |
 | ----- | ------------------- | -------- |
-| leemi | [leemi@example.com] | 123456   |
-| ram   | [ram@example.com]   | 123456   |
+| test user 1 | [ab@example.com] | 12   |
+| user 3   | [test3@example.com]   | 12   |
+
+## Demo video
+click here to watch: https://youtu.be/hS768ibXGDI
+
 
 
 
