@@ -1,0 +1,16 @@
+# Node modules
+
+client/node_modules/
+server/node_modules/
+
+# Environment files
+.env
+server/.env
+client/.env
+
+# Build outputs
+dist/
+build/
+android/
+ios/
+.expo/
